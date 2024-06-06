@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "QuantumMoonEquatorOrbit.dll",
+  "author": "MegaPiggy",
+  "name": "Quantum Moon Equator Orbit",
+  "uniqueName": "MegaPiggy.QuantumMoonEquatorOrbit",
+  "version": "1.0.0",
+  "owmlVersion": "2.11.1",
+  "dependencies": []
+}
